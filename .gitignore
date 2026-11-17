@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+*.gch
+*.log
+my_stego.bmp
+stego_output.bmp
+recovered.txt.txt
+output.txt
